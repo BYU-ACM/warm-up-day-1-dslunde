@@ -1,0 +1,3 @@
+(test_private_Newtons_Method_sol.py) You pased 9 out of 9 tests! (100.0%)
+(Overall) You pased 9 out of 9 tests! (100.0%)
+--------------------------------------------------
